@@ -55,3 +55,4 @@ raven==6.0.0
 
 openpyxl==3.0.0
 semantic_version==2.8.4
+MySQL-python==1.2.5
