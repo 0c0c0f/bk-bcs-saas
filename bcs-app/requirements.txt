@@ -5,7 +5,7 @@ pytz==2020.1
 PyMySQL==0.10.0
 
 bleach==3.1.5
-enum34==1.1.6
+enum34==1.1.10
 
 redis==2.10.5
 python-logstash==0.4.6
