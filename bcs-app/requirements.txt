@@ -32,7 +32,7 @@ PyYAML==5.3.1
 django-extensions==3.0.3
 werkzeug==1.0.1
 Pillow==7.2.0
-dataclasses==0.6
+dataclasses==0.7
 django-yamlfield==1.0.3
 Jinja2==2.10.1
 boto==2.49.0
