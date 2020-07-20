@@ -38,7 +38,7 @@ Jinja2==2.11.2
 boto==2.49.0
 botocore==1.17.23
 furl==2.1.0
-dpath==1.4.2
+dpath==2.0.1
 tornado==5.1.1
 kubernetes==10.0.0
 ruamel.yaml==0.15.79
