@@ -36,7 +36,7 @@ dataclasses==0.7
 django-yamlfield==1.0.3
 Jinja2==2.11.2
 boto==2.49.0
-botocore==1.17.23
+botocore==1.18.11
 furl==2.1.0
 dpath==2.0.1
 tornado==6.0.4
