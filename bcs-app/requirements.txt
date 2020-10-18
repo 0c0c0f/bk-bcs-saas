@@ -47,7 +47,7 @@ ruamel.yaml.cmd==0.5.5
 pycrypto==2.6.1
 django-picklefield==3.0.1
 
-celery==4.4.6
+celery==5.0.1
 django-celery==3.3.1
 
 natsort==7.0.1
