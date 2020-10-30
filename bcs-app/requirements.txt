@@ -39,7 +39,7 @@ boto==2.49.0
 botocore==1.17.23
 furl==2.1.0
 dpath==2.0.1
-tornado==6.0.4
+tornado==6.1
 kubernetes==11.0.0
 ruamel.yaml==0.16.10
 ruamel.yaml.cmd==0.5.5
