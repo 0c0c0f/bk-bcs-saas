@@ -50,7 +50,7 @@ django-picklefield==3.0.1
 celery==4.4.6
 django-celery==3.3.1
 
-natsort==7.0.1
+natsort==7.1.0
 raven==6.10.0
 
 
