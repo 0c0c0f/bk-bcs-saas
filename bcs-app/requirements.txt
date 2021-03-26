@@ -41,7 +41,7 @@ furl==2.1.0
 dpath==2.0.1
 tornado==6.0.4
 kubernetes==11.0.0
-ruamel.yaml==0.16.10
+ruamel.yaml==0.17.0
 ruamel.yaml.cmd==0.5.5
 
 pycrypto==2.6.1
