@@ -37,7 +37,7 @@ django-yamlfield==1.0.3
 Jinja2==2.11.2
 boto==2.49.0
 botocore==1.17.23
-furl==2.1.0
+furl==2.1.1
 dpath==2.0.1
 tornado==6.0.4
 kubernetes==11.0.0
