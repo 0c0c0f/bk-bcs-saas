@@ -34,7 +34,7 @@ werkzeug==1.0.1
 Pillow==7.2.0
 dataclasses==0.7
 django-yamlfield==1.0.3
-Jinja2==2.11.2
+Jinja2==3.0.0
 boto==2.49.0
 botocore==1.17.23
 furl==2.1.0
