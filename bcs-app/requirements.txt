@@ -21,7 +21,7 @@ jsonschema==3.2.0
 jsonfield==3.1.0
 
 gevent==20.6.2
-django-redis==4.12.1
+django-redis==5.0.0
 whitenoise==5.1.0
 
 gunicorn==20.0.4
